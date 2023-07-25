@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'proclozibpro'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_65A572167F6F482389C37B522E382A27 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A4B49561E814CF1B1360A46CFF88EAA }}
